@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+<img src="Github-profile.gif?raw=true">
+</p>
 <!--
 **jmsaulnier/jmsaulnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
